@@ -6,6 +6,6 @@ My thoughts for that class is that it was fairly poor. This is also reflected on
 
 In these notes, I tried to draw from my own personal and professional experiences to relate to the subject.
 
-The specialization is estimated to take about 7 hours to learn, one of the shorter classes in the IBM Data Engineering Specialization.
+The specialization is estimated to take about 7 hours to learn, one of the shorter classes in the IBM Data Engineering Specialization. It took much longer mainly from having to do troubleshooting to pass the class.
 
 I have made some personal anotations for myself through the comments feature of Google Colab, which I do not believe will transfer through into github. Others are welcome to use these notes as they see fit. None of the Code pieces will actually Run, since they are generally incomplete code to be used illustrate as examples.
